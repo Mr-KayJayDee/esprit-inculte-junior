@@ -1,13 +1,13 @@
 {
-    "lvl_1": "Level 1",
-    "lvl_2": "Level 2",
-    "lvl_3": "Level 3",
-    "no_host": "Not hosting",
-    "nom_guilde": "Guild Name",
-    "niveau_guilde": "Guild Level",
-    "config_khan": "Khan Config",
-    "publier": "Submit",
-    "supprimer": "Remove",
-    "description": "# Configuration\n## Guild Name: {{guild_name}}\n- {{emoji_guild}} | Guild level for the coalition: **{{guild_lvl}}**\n- {{emoji_khan}} | To configure channels and the role for khan\n- When you have finished configuring the bot, press the **Publish** button to post your registration announcement. If you want to delete your registration announcement, press the **Delete** button.\n- This bot is designed to help players register for khan. It manages khan registrations and displays them in a dedicated channel.\nThis bot is in no way affiliated with the coalition and its administrators. If you have any questions or suggestions, please contact the bot developers on this [server](https://discord.gg/bxTpCJFdnF).\n\nThis menu allows you to configure the bot.",
-    "not_defined": "Not defined"
+    "lvl_1": "Niveau 1",
+    "lvl_2": "Niveau 2",
+    "lvl_3": "Niveau 3",
+    "no_host": "Ne host pas",
+    "nom_guilde": "Nom de guilde",
+    "niveau_guilde": "Niveau de guilde",
+    "config_khan": "Config Khan",
+    "publier": "Publier",
+    "supprimer": "Supprimer",
+    "description": "# Configuration\n## Nom de guilde: {{guild_name}}\n- {{emoji_guild}} | Niveau de la guilde pour la coa: **{{guild_lvl}}**\n- {{emoji_khan}} | Pour configurer les salons et le rôle pour khan \n- Quand vous avez fini de configurer le bot, appuyez sur le bouton **Publier** pour poster votre annonce pour les inscriptions et si vous voulez supprimer votre annonce pour les inscriptions, appuyez sur le bouton **supprimer**.\n- Ce Bot est destiné à aider les joueurs à s'inscrire pour les khan. Il permet de gérer les inscriptions du khan et de les afficher dans un salon dédié.\nEn aucun cas ce bot est lié à la coalition et à ses administrateurs. Si vous avez des questions ou des suggestions, merci de contacter les développeurs du bot sur ce [serveur](https://discord.gg/bxTpCJFdnF).\n\nCe menu vous permet de configurer le bot.",
+    "not_defined": "Non défini"
 }
