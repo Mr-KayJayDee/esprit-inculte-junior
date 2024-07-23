@@ -1,1 +1,13 @@
-{}
+{
+    "lvl_1": "Niveau 1",
+    "lvl_2": "Niveau 2",
+    "lvl_3": "Niveau 3",
+    "no_host": "Ne host pas",
+    "nom_guilde": "Nom de guilde",
+    "niveau_guilde": "Niveau de guilde",
+    "config_khan": "Config Khan",
+    "publier": "Publier",
+    "supprimer": "Supprimer",
+    "description": "# Configuration\n## Nom de guilde: {{guild_name}}\n- {{emoji_guild}} | Niveau de la guilde pour la coa: **{{guild_lvl}}**\n- {{emoji_khan}} | Pour configurer les salons et le rôle pour khan \n- Quand vous avez fini de configurer le bot, appuyez sur le bouton **Publier** pour poster votre annonce pour les inscriptions et si vous voulez supprimer votre annonce pour les inscriptions, appuyez sur le bouton **supprimer**.\n- Ce Bot est destiné à aider les joueurs à s'inscrire pour les khan. Il permet de gérer les inscriptions du khan et de les afficher dans un salon dédié.\nEn aucun cas ce bot est lié à la coalition et à ses administrateurs. Si vous avez des questions ou des suggestions, merci de contacter les développeurs du bot sur ce [serveur](https://discord.gg/bxTpCJFdnF).\n\nCe menu vous permet de configurer le bot.",
+    "not_defined": "Non défini"
+}
