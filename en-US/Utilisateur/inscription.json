@@ -1,5 +1,5 @@
 {
-    "not_allowed": "Vous n'êtes pas autorisé à utiliser cette commande.",
+    "not_allowed": "You are not authorized to use this command.",
     "incription_khan": "Khan Registration",
     "family_name": "Last name",
     "ap": "AP",
@@ -10,11 +10,11 @@
     "boustre": "Boustre",
     "ferrid": "Ferrid",
     "puturum": "Puturum",
-    "number_of_tp": "Nombres de TP",
-    "thank_you": "Merci d'avoir renseigné vos informations",
-    "none": "Aucun",
-    "yes": "Oui",
-    "no": "Non",
-    "no_note": "Aucune",
+    "number_of_tp": "Number of TPs",
+    "thank_you": "Thank you for providing your information",
+    "none": "None",
+    "yes": "Yes",
+    "no": "No",
+    "no_note": "None",
     "no_tp": "0"
 }
