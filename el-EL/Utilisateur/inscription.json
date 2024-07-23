@@ -1,0 +1,16 @@
+{
+    "not_allowed": "Vous n'êtes pas autorisé à utiliser cette commande.",
+    "incription_khan": "Inscription Khan",
+    "family_name": "Nom de famille",
+    "ap": "AP",
+    "49": "49",
+    "spe": "Spe",
+    "note": "Note",
+    "number_of_tp": "Nombres de TP",
+    "thank_you": "Merci d'avoir renseigné vos informations",
+    "none": "Aucun",
+    "yes": "Oui",
+    "no": "Non",
+    "no_note": "Aucune",
+    "no_tp": "0"
+}
